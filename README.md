@@ -37,7 +37,6 @@ This API follows **REST principles** with a clear resource-based architecture:
 ### 1. Clone Repository
 ```bash
 git clone https://github.com/thaminduperera03-dot/Smart-Campus-JAX-RS-REST-API.git
-cd Smart-Campus-JAX-RS-REST-API
 ```
 
 ### 2. Access API
