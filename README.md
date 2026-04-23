@@ -49,11 +49,11 @@ http://localhost:8080/SmartCampusAPI/api/v1
 
 ## 🔗 API Endpoints
 
-| Resource | Endpoint |
+ Resource  Endpoint 
 
-| Rooms | `/rooms` |
-| Sensors | `/sensors` |
-| Readings | `/sensors/{id}/readings` |
+ Rooms  `/rooms` 
+ Sensors  `/sensors` 
+ Readings  `/sensors/{id}/readings` 
 
 ---
 
